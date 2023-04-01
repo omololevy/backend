@@ -1,7 +1,7 @@
 # Note
 
 This is a full-stack application developed with:
-<h2>Django</h2>
+<h4>Django</h4>
 
 * A Python framework for backend development.
 * This backend contains:
@@ -10,6 +10,6 @@ This is a full-stack application developed with:
 * The backend has been hosted on render platform
 
 
-<h2>React</h2>
+<h4>React</h4>
 
 * A JavaScript library/framework for frontend UI.
