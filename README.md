@@ -12,4 +12,4 @@ This is a full-stack application developed with:
 
 <h4>React</h4>
 
-* A JavaScript library/framework for frontend UI.
+* A JavaScript library/framework for [frontend](https://github.com/omololevy/frontend#readme) UI.
